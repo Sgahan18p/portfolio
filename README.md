@@ -1,49 +1,43 @@
-# vscode-portfolio
-[![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/itsnitinr/vscode-portfolio)
+# 🌐 Shubhankar's Portfolio
 
-A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
+Welcome to my personal portfolio website! 🚀 This is where I showcase my projects, skills, and experiences as a developer.
 
-![vscode-portfolio banner](https://imgur.com/JXJ9mpO.gif)
+## 🔗 Live Website
+[Visit My Portfolio](https://yourdomain.com)  
 
-## Features Roadmap
+## 📌 About
+I am a passionate full-stack web developer with expertise in modern web technologies. My portfolio website highlights my journey, projects, and technical skills.
 
-- [ ] Themes and customizations
-  - [x] GitHub Dark (default)
-  - [ ] One Dark Pro
-  - [x] Dracula
-  - [x] Ayu
-  - [x] Nord
-- [ ] Interactive custom terminal
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Backend:** Node.js, Express.js, MongoDB
+- **Version Control:** Git & GitHub
+- **Deployment:** Vercel, Namecheap, DigitalOcean
 
-For other features and themes suggestions, please open an issue.
+## 📂 Features
+- Interactive UI showcasing my skills & projects
+- Responsive design for all devices
+- Contact form to connect with me
+- Blog section for sharing insights
 
-## Environment Variables
-
-For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
-
-## Running Development Server
-
+## 🚀 Getting Started
+### Clone the repository
+```bash
+git clone https://github.com/yourusername/portfolio.git
+```
+### Install dependencies
+```bash
+npm install
+```
+### Run the project locally
 ```bash
 npm run dev
-# or
-yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📩 Contact Me
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)  
+🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
-All VSCode related components can be found in the `components` folder. To change the content of the portfolio, check out the `pages` folder. To add or remove pages, modify `components/Sidebar.jsx` and `components/Tabsbar.jsx`.
-
-## Next.js Resources
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/)
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📜 License
+This project is open-source and available under the MIT License.
