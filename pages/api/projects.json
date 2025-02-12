@@ -1,0 +1,22 @@
+[
+  
+  {
+    "id": 1,
+    "name": "QR Code Generator",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "A simple QR Code Generator web app where users can input text or URL and generate a QR code. The app also provides an option to download the generated QR code.",
+    "tags": ["HTML", "css", "javascript" , "material-ui"],
+    "demo": "https://sgahan18p.github.io/QRcode/"
+  },
+  {
+    "id": 2,
+    "name": "ToDo App",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "A simple ToDo Application. This application allows users to add, update, and manage their tasks efficiently.",
+    "tags": ["HTML", "node", "mongodb", "javascript", "react-query"],
+    "source_code": "https://github.com/Sgahan18p/ToDo.git",
+    "demo": "https://sgahan18p.github.io/ToDo/"
+  }
+  
+ 
+]
